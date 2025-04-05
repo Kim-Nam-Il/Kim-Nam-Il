@@ -9,9 +9,12 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+Hi, I’m Kim Nam-Il!
+I graduated from Sogang University with a degree in Economics and earned an M.Sc. in Financial Engineering from KAIST.
+I’ve worked at KBS (Korean Broadcasting System) and WorldQuant, a subsidiary of Millennium Management.
+Currently, I’m interested in data science, quantitative analysis, and artificial intelligence.
+Feel free to contact me at inflow-wallop0l@icloud.com.
+
   <br/>
   <br/>
   
@@ -54,14 +57,14 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Nam-Il)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Nam-Il)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 <!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kim-Namil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - Hi there 👋
