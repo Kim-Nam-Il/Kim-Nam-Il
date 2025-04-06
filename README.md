@@ -1,19 +1,24 @@
 # My Badges
 
-[![Badge 1](https://images.credly.com/size/340x340/images/902101e7-397f-45de-a20a-5cb4a9a36894/image.png)](https://www.credly.com/badges/efa3a6ab-bf51-42b6-898c-c1fb817c8a0e/public_url)
-[![Badge 2](https://images.credly.com/size/340x340/images/d553cca5-e44b-472d-a133-c175717ef632/image.png)](https://www.credly.com/badges/0c684fe8-25cc-4685-b926-1b8e52f99d67/public_url)
+<!-- Badge 1: Korea Brain Alphathon -->
+<a href="https://www.credly.com/badges/efa3a6ab-bf51-42b6-898c-c1fb817c8a0e/public_url">
+  <img src="https://images.credly.com/size/340x340/images/902101e7-397f-45de-a20a-5cb4a9a36894/image.png" alt="Korea Brain Alphathon" width="150">
+</a>
+<!-- Badge 2: SuperAlpha Competition 2024 -->
+<a href="https://www.credly.com/badges/0c684fe8-25cc-4685-b926-1b8e52f99d67/public_url">
+  <img src="https://images.credly.com/size/340x340/images/d553cca5-e44b-472d-a133-c175717ef632/image.png" alt="SuperAlpha Competition 2024" width="150">
+</a>
 
 <div>
   
   ### Language
-  <!--Python-->
+  <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--Cpp-->
+  <!-- C++ -->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <!--Go-->
+  <!-- Go -->
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <br/>
-  
   
 </div>
 
