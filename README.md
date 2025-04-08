@@ -1,3 +1,5 @@
+![Wallpaper](WallPaper.jpeg)
+
 ### My Blog
 [![Blog](https://img.shields.io/badge/Blog-kim--nam--il-brightgreen)](https://kim-nam-il.github.io/)
 
