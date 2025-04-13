@@ -7,7 +7,7 @@
 ### My Projects
 
 #### 1. Stock Investment
-[Equity Linked Securities](https://github.com/Kim-Nam-Il/Vigilant-Asset-Allocation)
+[Asset-Allocation](https://github.com/Kim-Nam-Il/Vigilant-Asset-Allocation)
 
 #### 2. Derivative Strategy
 [Equity Linked Securities](https://github.com/Kim-Nam-Il/ELS_Pricing)
