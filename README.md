@@ -7,11 +7,12 @@
 ### My Projects
 
 #### 1. Stock Investment
-[Asset-Allocation](https://github.com/Kim-Nam-Il/Vigilant-Asset-Allocation)
+[1-1. Asset-Allocation](https://github.com/Kim-Nam-Il/Vigilant-Asset-Allocation)
 
 #### 2. Derivative Strategy
-[Equity Linked Securities](https://github.com/Kim-Nam-Il/ELS_Pricing)
-[Swaption](https://github.com/Kim-Nam-Il/swaption)
+[2-1. Equity Linked Securities](https://github.com/Kim-Nam-Il/ELS_Pricing)
+
+[2-2. Swaption](https://github.com/Kim-Nam-Il/swaption)
 
 ### My Badges
 
