@@ -3,6 +3,15 @@
 ### My Blog
 [![Blog](https://img.shields.io/badge/Blog-kim--nam--il-brightgreen)](https://kim-nam-il.github.io/)
 
+
+### My Projects
+
+#### 1. Stock Investment
+[Equity Linked Securities](https://github.com/Kim-Nam-Il/Vigilant-Asset-Allocation)
+
+#### 2. Derivative Strategy
+[Equity Linked Securities](https://github.com/Kim-Nam-Il/ELS_Pricing)
+
 ### My Badges
 
 <!-- Badge 1: Korea Brain Alphathon -->
