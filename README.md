@@ -12,6 +12,8 @@
 #### 2. Derivative Strategy
 [2-1. Equity Linked Securities](https://github.com/Kim-Nam-Il/ELS_Pricing)
 
+[![ELS Pricing Website](https://img.shields.io/badge/ELS%20Pricing-Flask-000?style=flat-square&logo=flask&logoColor=white)](https://equitylinkedsecurities.com)
+
 [2-2. Swaption](https://github.com/Kim-Nam-Il/swaption)
 
 ### My Badges
