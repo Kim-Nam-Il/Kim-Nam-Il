@@ -15,12 +15,6 @@
 [![ELS Pricing Website](https://img.shields.io/badge/ELS%20Pricing-Flask-000?style=flat-square&logo=flask&logoColor=white)](https://equitylinkedsecurities.com)
 
 [2-2. Swaption](https://github.com/Kim-Nam-Il/swaption)
-
-#### 3. Simulation
-[3-1. Alpha Parser](https://github.com/Kim-Nam-Il/alpha_parser)
-
-[![PyPI – alpha‑parser](https://img.shields.io/pypi/v/alpha_parser?label=PyPI&style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/alpha-parser/)
-
 ``` cmd
 pip install alpha-parser
 ```
