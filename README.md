@@ -14,7 +14,7 @@
 
 [![ELS Pricing Website](https://img.shields.io/badge/ELS%20Pricing-Flask-000?style=flat-square&logo=flask&logoColor=white)](https://equitylinkedsecurities.com)
 
-![Wallpaper](u_slice.jpeg)
+<img src="u_slice.jpeg" alt="ELS 3D Chart" width="800" height="400">
 
 [2-2. Swaption](https://github.com/Kim-Nam-Il/swaption)
 ``` cmd
